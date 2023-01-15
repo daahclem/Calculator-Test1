@@ -1,0 +1,12 @@
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\bin\Debug\net7.0\CalculatorTest.deps.json
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\bin\Debug\net7.0\CalculatorTest.dll
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\bin\Debug\net7.0\CalculatorTest.pdb
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\obj\Debug\net7.0\CalculatorTest.csproj.AssemblyReference.cache
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\obj\Debug\net7.0\CalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\obj\Debug\net7.0\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\obj\Debug\net7.0\CalculatorTest.AssemblyInfo.cs
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\obj\Debug\net7.0\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\obj\Debug\net7.0\CalculatorTest.dll
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\obj\Debug\net7.0\refint\CalculatorTest.dll
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\obj\Debug\net7.0\CalculatorTest.pdb
+C:\Users\donni\Desktop\CalculatorTest\CalculatorTest\obj\Debug\net7.0\ref\CalculatorTest.dll
